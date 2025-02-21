@@ -15,3 +15,4 @@ class Solution:
 
                 #join all in stack and make final string
         return ''.join(stack)
+    

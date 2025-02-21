@@ -6,3 +6,5 @@ class Solution:
                 alphanumeric += char.lower()
 
         return alphanumeric == alphanumeric[::-1]
+    
+    
